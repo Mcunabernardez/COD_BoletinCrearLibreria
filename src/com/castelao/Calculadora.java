@@ -9,13 +9,18 @@ package com.castelao;
 public class Calculadora {
 
     /**
-     * Creamos las v ariables de las 4 opciones literales
+     * Creamos las variables de las 4 opciones literales
      * Opcion de suma, resta multiplicación y división de dos factores
      */
     public static final int SUMA = 1;
     public static final int RESTA = 2;
     public static final int MULTIPLICACION = 3;
     public static final int DIVISION = 4;
+
+    /**
+     * Creacion de la variable para la raiz cúbica
+     */
+    public static final int RAIZCUBICA = 5;
     /**
      * Creamos el Array del resultado de la operacion
      */
@@ -71,6 +76,18 @@ public class Calculadora {
                 }
 
                 return RESULTADO;
+
+            case RAIZCUBICA:
+                /* usamos la funcion math pow para calcular, dando el primer numero, su raiz cubica
+                * */
+                try {
+                    RESULTADO[0] = (float) Math.pow(num1, 1/3);
+                } catch (NullPointerException exception) {
+                    return null;
+                }
+
+                return RESULTADO;
+
 
             default:
 
