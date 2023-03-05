@@ -15,6 +15,44 @@
     <list default="true" id="f787f0b5-a3f3-4b59-a651-9cd621e9c019" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/com/castelao/Calculadora.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/com/castelao/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/com/castelao/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/script-dir/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/type-search-index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/castelao/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/castelao/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
