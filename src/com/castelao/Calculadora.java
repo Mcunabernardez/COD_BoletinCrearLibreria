@@ -18,9 +18,9 @@ public class Calculadora {
     public static final int DIVISION = 4;
 
     /**
-     * Creacion de la variable para la raiz cúbica
+     * Creacion de la variable para la raiz de N
      */
-    public static final int RAIZCUBICA = 5;
+    public static final int RAIZN = 5;
     /**
      * Creamos el Array del resultado de la operacion
      */
@@ -77,11 +77,11 @@ public class Calculadora {
 
                 return RESULTADO;
 
-            case RAIZCUBICA:
-                /* usamos la funcion math pow para calcular, dando el primer numero, su raiz cubica
+            case RAIZN:
+                /* usamos la funcion math pow para calcular, dando el primer numero, y generar la raiz del segundo número dado
                 * */
                 try {
-                    RESULTADO[0] = (float) Math.pow(num1, 1/3);
+                    RESULTADO[0] = (float) Math.pow(num1, 1/num2);
                 } catch (NullPointerException exception) {
                     return null;
                 }
