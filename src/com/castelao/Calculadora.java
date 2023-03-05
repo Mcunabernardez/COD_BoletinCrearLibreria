@@ -78,6 +78,8 @@ public class Calculadora {
                 return RESULTADO;
 
             case RAIZCUBICA:
+                /* usamos la funcion math pow para calcular, dando el primer numero, su raiz cubica
+                * */
                 try {
                     RESULTADO[0] = (float) Math.pow(num1, 1/3);
                 } catch (NullPointerException exception) {
